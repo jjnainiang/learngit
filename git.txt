@@ -1,16 +1,4 @@
 
+git is a free software
 
-
-
-
-
-
-
-
-
-
-
-dsafdas
-
-fdsaf
-
+git is a version control system
